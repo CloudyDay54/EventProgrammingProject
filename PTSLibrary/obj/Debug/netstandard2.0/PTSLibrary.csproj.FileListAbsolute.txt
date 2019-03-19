@@ -1,0 +1,8 @@
+C:\Users\rosh1\OneDrive\Documents\Visual Studio 2017\Projects\PTSLibrary\PTSLibrary\bin\Debug\netstandard2.0\PTSLibrary.deps.json
+C:\Users\rosh1\OneDrive\Documents\Visual Studio 2017\Projects\PTSLibrary\PTSLibrary\bin\Debug\netstandard2.0\PTSLibrary.dll
+C:\Users\rosh1\OneDrive\Documents\Visual Studio 2017\Projects\PTSLibrary\PTSLibrary\obj\Debug\netstandard2.0\PTSLibrary.csprojAssemblyReference.cache
+C:\Users\rosh1\OneDrive\Documents\Visual Studio 2017\Projects\PTSLibrary\PTSLibrary\obj\Debug\netstandard2.0\PTSLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rosh1\OneDrive\Documents\Visual Studio 2017\Projects\PTSLibrary\PTSLibrary\obj\Debug\netstandard2.0\PTSLibrary.AssemblyInfoInputs.cache
+C:\Users\rosh1\OneDrive\Documents\Visual Studio 2017\Projects\PTSLibrary\PTSLibrary\obj\Debug\netstandard2.0\PTSLibrary.AssemblyInfo.cs
+C:\Users\rosh1\OneDrive\Documents\Visual Studio 2017\Projects\PTSLibrary\PTSLibrary\obj\Debug\netstandard2.0\PTSLibrary.Properties.Resources.resources
+C:\Users\rosh1\OneDrive\Documents\Visual Studio 2017\Projects\PTSLibrary\PTSLibrary\obj\Debug\netstandard2.0\PTSLibrary.csproj.GenerateResource.cache
